@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-offline-check",
   "description": "机器人离线检测，在机器人离线时通过另外的机器人进行提醒并作出处理，自用",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,6 +9,11 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/hoah2333/koishi-plugin-offline-check",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoah2333/koishi-plugin-offline-check.git"
+  },
   "scripts": {},
   "keywords": [
     "chatbot",
